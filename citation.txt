@@ -1,0 +1,9 @@
+@misc{REPO084,
+    author = "Inoue, Naoto and Kikuchi, Kotaro and Simo-Serra, Edgar and Otani, Mayu and Yamaguchi, Kota",
+    archiveprefix = "arXiv",
+    eprint = "2303.08137",
+    primaryclass = "cs.CV",
+    title = "{LayoutDM: Discrete Diffusion Model for Controllable Layout Generation}",
+    url = "https://arxiv.org/abs/2303.08137",
+    year = "2023"
+}
